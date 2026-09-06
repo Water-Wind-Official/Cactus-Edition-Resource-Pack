@@ -8,6 +8,24 @@
       "chars": [
         "\ue001"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cactus_admin:gui/welcome.png",
+      "height": 98,
+      "ascent": 86,
+      "chars": [
+        "\ue002"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cactus_admin:gui/daily.png",
+      "height": 72,
+      "ascent": 62,
+      "chars": [
+        "\ue003"
+      ]
     }
   ]
 }
