@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "cactus_admin:gui/exchange.png",
+      "ascent": 72,
+      "height": 84,
+      "chars": [
+        "\ue001"
+      ]
+    }
+  ]
+}
